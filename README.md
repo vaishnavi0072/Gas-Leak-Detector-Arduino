@@ -12,6 +12,7 @@ https://wokwi.com/projects/459639840699751425
 - Resistors
 - Power Supply
 - Connecting Wires
+  
   <img width="400" height="400" alt="Screenshot 2026-03-28 110205" src="https://github.com/user-attachments/assets/3e38806a-5f63-47ab-a37a-4ef9d2392744" />
 
 ## Working Principle
