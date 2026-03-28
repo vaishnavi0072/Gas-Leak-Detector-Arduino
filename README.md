@@ -7,11 +7,13 @@ https://wokwi.com/projects/459639840699751425
 ## Components Used
 - Arduino Microcontroller
 - MQ Series Gas Sensor
-- Buzzer
+- Buzzer                             
 - LED
 - Resistors
 - Power Supply
 - Connecting Wires
+  <img width="400" height="400" alt="Screenshot 2026-03-28 110205" src="https://github.com/user-attachments/assets/3e38806a-5f63-47ab-a37a-4ef9d2392744" />
+
 ## Working Principle
 The MQ gas sensor continuously monitors the concentration of gas in the environment. The analog signal from the sensor is read by the Arduino. If the gas level exceeds the safe threshold value, the Arduino triggers the buzzer and LED alert system.
 ## Features
@@ -24,5 +26,4 @@ Industrial gas monitoring,
 Home kitchen safety systems,
 Fire hazard prevention,
 Chemical laboratories.
-<img width="400" height="400" alt="Screenshot 2026-03-28 110205" src="https://github.com/user-attachments/assets/3e38806a-5f63-47ab-a37a-4ef9d2392744" />
 
